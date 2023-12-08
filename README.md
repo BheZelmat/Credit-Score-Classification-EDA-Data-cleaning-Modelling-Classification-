@@ -25,10 +25,15 @@ The primary task is to develop a machine learning model capable of accurately pr
 
 ## 📝 Data Science Approach
 Data Preprocessing: Cleaning the dataset, handling missing values, and transforming categorical data into a format suitable for machine learning algorithms.
+
 Feature Engineering: Identifying and selecting the most relevant features that influence credit scoring.
+
 Model Selection: Evaluating different machine learning models to find the one that best predicts the credit score. Potential models might include  decision trees, random forests, or gradient boosting machines.
+
 Model Training and Testing: Training the model on a portion of the dataset and testing its performance on unseen data to ensure accuracy and reliability.
+
 Evaluation: Using metrics like accuracy, precision, recall, and F1-score to evaluate the model's performance in classifying credit scores.
+
 
 ## 📝Objectives and Applications
 Automation of Credit Scoring: Reducing the manual workload involved in credit evaluation.
