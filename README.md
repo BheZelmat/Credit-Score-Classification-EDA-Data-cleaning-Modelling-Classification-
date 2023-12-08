@@ -1,8 +1,6 @@
 # Credit Score Classification-EDA-Data-cleaning-Modelling-Classification
 
-
 ![alt text](https://github.com/BheZelmat/Credit-Score-Classification-EDA-Data-cleaning-Modelling-Classification-/blob/main/img.png?raw=true)
-  
 
 
 ## 📝 Overview
