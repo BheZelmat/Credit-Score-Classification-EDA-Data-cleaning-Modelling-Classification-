@@ -5,7 +5,7 @@
 
 ## 📝 Overview
 
-This project involves developing a machine learning model for a global finance company to classify individuals into different credit score brackets, thereby reducing manual effort in credit evaluation. Here's a detailed overview:
+This project involves developing a machine learning model for a global finance company to classify individuals into different credit score brackets, thereby reducing manual effort in credit evaluation. 
 
 ## 📝 About the Dataset
 
